@@ -1,9 +1,12 @@
 {
   "name": "insight-api-zen",
-  "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
+  "description": "A ZenCash blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/aayanl/insight-api-zen.git",
+  "repository": "git://github.com/zencashofficial/insight-api-zen.git",
   "contributors": [
+    {
+      "name": "Aayanl"
+    },
     {
       "name": "Gustavo Cortez",
       "email": "cmgustavo83@gmail.com"
@@ -42,11 +45,12 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/aayanl/insight-api-zen/issues"
+    "url": "https://github.com/zencashofficial/insight-api-zen/issues"
   },
-  "homepage": "https://github.com/aayanl/insight-api-zen",
+  "homepage": "https://github.com/zencashofficial/insight-api-zen",
   "license": "MIT",
   "keywords": [
+    "zen",
     "insight",
     "insight api",
     "blockchain",
@@ -65,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "aayanl/bitcore-lib-zen",
-    "bitcore-message-zen": "aayanl/bitcore-message-zen",
+    "bitcore-lib-zen": "zencashofficial/bitcore-lib-zen",
+    "bitcore-message-zen": "zencashofficial/bitcore-message-zen",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
