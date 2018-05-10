@@ -2,7 +2,7 @@
   "name": "insight-api-zen",
   "description": "A ZenCash blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/zencashofficial/insight-api-zen.git",
+  "repository": "git://github.com/ZencashOfficial/insight-api-zen.git",
   "contributors": [
     {
       "name": "Aayanl"
@@ -45,9 +45,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/zencashofficial/insight-api-zen/issues"
+    "url": "https://github.com/ZencashOfficial/insight-api-zen/issues"
   },
-  "homepage": "https://github.com/zencashofficial/insight-api-zen",
+  "homepage": "https://github.com/ZencashOfficial/insight-api-zen",
   "license": "MIT",
   "keywords": [
     "zen",
@@ -69,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zen": "zencashofficial/bitcore-lib-zen",
-    "bitcore-message-zen": "zencashofficial/bitcore-message-zen",
+    "bitcore-lib-zen": "ZencashOfficial/bitcore-lib-zen",
+    "bitcore-message-zen": "ZencashOfficial/bitcore-message-zen",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
