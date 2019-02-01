@@ -26,5 +26,196 @@
     "searchStrings": [
       "{ZMINE.IO}"
     ]
+  },
+  {
+	  "poolName": "Zemine",
+	  "url": "https://zenmine.pro/",
+	  "searchStrings": [
+		  "zemine"
+	  ]
+  },
+  {
+	  "poolName": "ZenCash Solo Pool",
+	  "url": "https://zen.solopool.org/",
+	  "searchStrings": [
+		  "solopool.org"
+	  ]
+  },
+  {
+	  "poolName": "Luckpool",
+	  "url": "https://luckpool.net/zen/",
+	  "searchStrings": [
+		  "luckpool.org http://luckpool.org",
+		  "luckpool.org by hellcatz"
+	  ]
+  },
+  {
+	  "poolName": "Z hash",
+	  "url": "https://zen.zhash.pro/",
+	  "searchStrings": [
+		  "zhash"
+	  ]
+  },
+  {
+	  "poolName": "4miners.ru",
+	  "url": "http://equihash.4miners.ru/",
+	  "searchStrings": [
+		  "4miners.ru",
+		  "http://equihash.4miners.ru/"
+	  ]
+  },
+  {
+	  "poolName": "F2Pool",
+	  "url": "http://f2pool.com/",
+	  "searchStrings": [
+		  "🐟",
+		  "七彩神仙鱼"
+	  ]
+  },
+  {
+	  "poolName": "Z-NOMP!",
+	  "url": "https://github.com/z-classic/z-nomp",
+	  "searchStrings": [
+		  "Z-NOMP! https://github.com/z-classic/z-nomp",
+		  "Z-NOMP!"
+	  ]
+  },
+  {
+	  "poolName": "FairHash",
+	  "url": "https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link",
+	  "searchStrings": [
+		  "Default s-nomp pool https://github.com/s-nomp/s-nomp/wiki/Insight-pool-link"
+	  ]
+  },
+  {
+	  "poolName": "2Miners",
+	  "url": "https://2miners.com/zen-mining-pool/",
+	  "searchStrings": [
+		  "2miners",
+		  "2 Miners",
+		  "https://2miners.com/"
+	  ]
+  },
+  {
+	  "poolName": "SoloPool",
+	  "url": "https://solo-zen.2miners.com",
+	  "searchStrings": [
+		  "solo-zen",
+		  "us-solo-zen",
+		  "asia-solo-zen"
+	  ]
+  },
+  {
+	  "poolName": "Equipool",
+	  "url": "https://equipool.1ds.us/blocks",
+	  "searchStrings": [
+		  "Equipool"
+	  ]
+  },
+  {
+	  "poolName": "Private Altpool.pro",
+	  "url": "http://private.altpool.pro",
+	  "searchStrings": [
+		  "Contact us http://private.altpool.pro"
+	  ]
+  },
+  {
+	  "poolName": "EquiHub",
+	  "url": "https://zen.equihub.pro/",
+	  "searchStrings": [
+		  "EquiHub https://zen.equihub.pro",
+		  "EquiHub"
+	  ]
+  },
+  {
+	  "poolName": "luxor.tech",
+	  "url": "https://mining.luxor.tech/zencash/",
+	  "searchStrings": [
+		  "luxor",
+		  "https://mining.luxor.tech",
+		  "luxor.tech",
+		  "mining.luxor.tech",
+		  "luxortech",
+		  "lx",
+		  "036cf80600"
+	  ]
+  },
+  {
+        "poolName": "Power Mining Pool",
+        "url": "www.powermining.pw/site/mining",
+        "searchStrings": [
+            "powermining"
+        ]
+    },
+  {
+	 "poolName": "Z@af264a1dbf02a2b38874b317275c7879e0dda047c36b7986f4ee5f9bdeb45c4e",
+	 "url": "https://miningpoolhub.com/",
+	 "searchStrings": [
+		 "Z@af264a1dbf02a2b38874b317275c7879e0dda047c36b7986f4ee5f9bdeb45c4e"
+	 ]
+  },
+  {
+	 "poolName": "JJJJJ",
+	 "url": "https://miningpoolhub.com/",
+	 "searchStrings": [
+		 "J"
+	 ]
+  },
+  {
+	 "poolName": "KKKKKK",
+	 "url": "https://miningpoolhub.com/",
+	 "searchStrings": [
+		 "K"
+	 ]
+  },
+  {
+	 "poolName": "IIIIIIIIIII",
+	 "url": "https://miningpoolhub.com/",
+	 "searchStrings": [
+		 "I"
+	 ]
+  },
+  {
+	 "poolName": "XkXkXkXkXk",
+	 "url": "https://miningpoolhub.com/",
+	 "searchStrings": [
+		 "Xk"
+	 ]
+  },
+  {
+	 "poolName": "Mining Pool Hub",
+	 "url": "https://zencash.miningpoolhub.com/",
+	 "searchStrings": [
+		 "/mph/",
+		 "039df80600"
+	 ]
+  },
+  {
+	  "poolName": "Supernova",
+	  "url": "http://zen.suprnova.cc",
+	  "searchStrings": [
+		  "/zen.suprnova.cc/",
+		  "suprnovapools",
+		  "suprnova",
+		  "Suprnova.cc",
+		  "0364f80600",
+		  "NGv2"
+	  ]
+  },
+  {
+	  "poolName": "Aikapool",
+	  "url": "https://aikapool.com/zen/",
+	  "searchStrings": [
+		  "Aika Pool",
+		  "AikaPool",
+		  "https://aikapool.com/zen/"
+	  ]
+  },
+  {
+	  "poolName": "zzzzzzzz",
+	  "url": "https://aikapool.com/zen/",
+	  "searchStrings": [
+		  "nodeStratum"
+	  ]
   }
 ]
